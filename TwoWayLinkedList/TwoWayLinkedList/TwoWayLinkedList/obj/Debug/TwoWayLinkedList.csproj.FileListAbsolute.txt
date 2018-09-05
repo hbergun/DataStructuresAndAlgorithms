@@ -1,0 +1,7 @@
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.exe.config
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.exe
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.pdb
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.exe
+C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.pdb
