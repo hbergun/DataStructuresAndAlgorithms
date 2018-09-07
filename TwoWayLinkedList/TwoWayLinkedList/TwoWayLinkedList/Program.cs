@@ -24,7 +24,7 @@ namespace TwoWayLinkedList
             Console.WriteLine(DL.Traverse());
             DL.DeleteLast();
             Console.WriteLine(DL.Traverse());
-            DL.DeleteFirst();
+            DL.DeleteFirst();   
             Console.WriteLine(DL.Traverse());
             DL.AddFirst(0);
             Console.WriteLine(DL.Traverse());
