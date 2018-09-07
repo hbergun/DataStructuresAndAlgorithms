@@ -55,6 +55,7 @@ namespace TwoWayLinkedList
             {
                 Head = Head.Next;
                 Head.Prev = null;
+                Size--;
             }
             else
                 return;
@@ -68,6 +69,7 @@ namespace TwoWayLinkedList
                 Node Temp = GetNode(Size - 1);
                 Temp.Next.Prev = null;
                 Temp.Next = null;
+                Size--;
             }
             else
                 return;
@@ -83,6 +85,7 @@ namespace TwoWayLinkedList
                 Current.Next.Prev = Current.Prev;
                 Current.Prev = null;
                 Current.Next = null;
+                Size--;
             }
             else if (position == 0)
                 DeleteFirst();
@@ -90,7 +93,6 @@ namespace TwoWayLinkedList
                 DeleteLast();
             else
                 return;
-           
         }
 
         public override Node GetNode(int position)
