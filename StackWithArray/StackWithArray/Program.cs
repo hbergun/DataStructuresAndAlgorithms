@@ -28,6 +28,7 @@ namespace StackWithArray
             Console.WriteLine(stack.Pull());
             Console.WriteLine(stack.IsEmpty());
             Console.WriteLine(stack.Top);
+            //Passed
 
             Console.Read();
         }
