@@ -22,8 +22,14 @@ namespace StackWithArray
             stack.Push(3);
             stack.Push(2);
             stack.Push(1);
-        
-            //stack.Peek();
+
+            Console.WriteLine(stack.Peek());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.IsEmpty());
+            Console.WriteLine(stack.Top);
+
+            Console.Read();
         }
     }
 }

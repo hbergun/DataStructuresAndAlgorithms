@@ -23,13 +23,14 @@ namespace TwoWayLinkedList
                 Head = Temp;
                 Size++;
             }
-        }
+        }//Passed
         public override void AddLast(int value)
         {
             Node Temp = new Node { Value = value };
             GetNode(Size).Next = Temp;
             Size++;
-        }
+        }//Passed
+
         public override void AddPosition(int position, int value)
         {
             if (position != 0 && position <= Size)
@@ -47,7 +48,7 @@ namespace TwoWayLinkedList
             else
                 return;
           
-        }
+        }//Passed
 
         public override void DeleteFirst()
         {
@@ -60,7 +61,7 @@ namespace TwoWayLinkedList
             else
                 return;
 
-        }
+        }//Passed
 
         public override void DeleteLast()
         {
@@ -74,7 +75,7 @@ namespace TwoWayLinkedList
             else
                 return;
 
-        }
+        }//Passed
 
         public override void DeletePosition(int position)
         {
@@ -93,7 +94,7 @@ namespace TwoWayLinkedList
                 DeleteLast();
             else
                 return;
-        }
+        }//Passed
 
         public override Node GetNode(int position)
         {
@@ -108,8 +109,7 @@ namespace TwoWayLinkedList
                 return Head;
             else
                 throw new Exception("Geçersiz Pozisyon");
-
-        }
+        }//Passed
 
         public override StringBuilder Traverse()
         {
@@ -121,6 +121,6 @@ namespace TwoWayLinkedList
                 Temp = Temp.Next;
             }
             return ReturnValue;
-        }
+        }//Passed
     }
 }

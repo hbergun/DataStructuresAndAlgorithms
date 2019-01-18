@@ -36,6 +36,10 @@ namespace StackWithArray
             return StackArray[Top];
         }
 
+        /// <summary>
+        /// This Method is Used To Pull From The Stack
+        /// </summary>
+        /// <returns></returns>
         public int Pull()
         {
             if (IsEmpty() == false)
@@ -47,11 +51,14 @@ namespace StackWithArray
             else
                  throw new Exception("Stack Is Empty : Exception (DownFlow)");
         }
-
+        /// <summary>
+        /// This Method is Used To Add Value To The Stack
+        /// </summary>
+        /// <param name="value"></param>
         public void Push(int value)
         {
             if (StackArray.Length != Top + 1)
-                StackArray[Top++] = value;
+                StackArray[++Top] = value;
             else
                 throw new Exception("Stack Is Full : Exception (OverFlow) ");
         }

@@ -5,3 +5,10 @@ C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLi
 C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.csproj.CoreCompileInputs.cache
 C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.exe
 C:\Users\HasanBerkErgun\Desktop\GitHubClone\DataStructuresAndAlgorithms\TwoWayLinkedList\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.pdb
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.exe.config
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.exe
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\bin\Debug\TwoWayLinkedList.pdb
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.csprojAssemblyReference.cache
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.csproj.CoreCompileInputs.cache
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.exe
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\TwoWayLinkedList\TwoWayLinkedList\obj\Debug\TwoWayLinkedList.pdb

@@ -99,8 +99,8 @@ namespace LinkedList
                 AddFirst(value);
             else
             {
-                GetNode(Size).Next = Add; //Because C# Call(Pass) By Reference 
-                Size++;
+                GetNode(Size).Next = Add; //Because C#(for advanced data type) Call(Pass) By Reference 
+                Size++;                   //Primitive Data Type Call(Pass) By Value 
             }
         }
     }//Passed
