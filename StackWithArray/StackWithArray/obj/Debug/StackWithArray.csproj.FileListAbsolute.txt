@@ -1,0 +1,7 @@
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\bin\Debug\StackWithArray.exe.config
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\bin\Debug\StackWithArray.exe
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\bin\Debug\StackWithArray.pdb
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\obj\Debug\StackWithArray.csprojAssemblyReference.cache
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\obj\Debug\StackWithArray.csproj.CoreCompileInputs.cache
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\obj\Debug\StackWithArray.exe
+D:\EDUCATİON\GitHub\Data Structures And Algorithms\StackWithArray\StackWithArray\obj\Debug\StackWithArray.pdb
