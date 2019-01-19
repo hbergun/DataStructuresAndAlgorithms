@@ -11,23 +11,21 @@ namespace StackWithOneWayLinkedList
     {
         static void Main(string[] args)
         {
-          
-            object value = Denemeler();
-            Console.WriteLine(((TestSınıfı)value).X);
+            Stack stack = new Stack();
+            Console.WriteLine(stack.IsEmpty());
+            stack.Push(0);
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Push(5);
+            Console.WriteLine(stack.Peek());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Peek());
 
-            object Denemeler()
-            {
-                return new TestSınıfı();
-            }
             Console.ReadKey();
         }
-
-        public class TestSınıfı
-        {
-            public int X { get; set; }
-            public int Y { get; set; }
-        }
-        float
 
     }
 }

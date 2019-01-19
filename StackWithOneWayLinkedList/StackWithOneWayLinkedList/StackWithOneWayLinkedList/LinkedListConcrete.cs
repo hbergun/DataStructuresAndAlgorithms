@@ -11,6 +11,7 @@ namespace StackWithOneWayLinkedList
         public override void AddLast(int value)
         {
             Node Temp = new Node() { Data = value };
+            //if (Last.Prev != null || Last!=null)
             if (Last == null)
             {
                 Last = Temp;
@@ -18,7 +19,7 @@ namespace StackWithOneWayLinkedList
             }
             else
             {
-                Last.Next = Temp;
+                Temp.Prev = Last;
                 Last = Temp;
                 Size++;
             }
@@ -26,7 +27,22 @@ namespace StackWithOneWayLinkedList
 
         public override int GetLast()
         {
-            return Last.Data; 
+            if (Size!=-1)
+            {
+                Node Temp = Last;
+                Last = null;
+                Last = Temp.Prev;
+
+                int ReturnValue = Temp.Data;
+                Temp = null;
+                Size--;
+
+                return ReturnValue;
+            }
+            else
+            {
+                throw new Exception("Stack Downflow");
+            }
         }
     }
 }

@@ -8,6 +8,9 @@ namespace StackWithOneWayLinkedList
 {
     public interface IStack
     {
-
+        int Peek();
+        int Pull();
+        void Push(int Value);
+        bool IsEmpty();
     }
 }

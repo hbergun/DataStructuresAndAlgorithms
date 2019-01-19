@@ -9,7 +9,6 @@ namespace StackWithOneWayLinkedList
     public abstract class LinkedListADT
     {
         public Node Last { get; set; }
-        public Node LastPrev { get; set }
         private int size = -1;
 
         public int Size
@@ -20,8 +19,10 @@ namespace StackWithOneWayLinkedList
             }
             set
             {
-                if (size > -1)
+                if (value >= 0)
                     size = value;
+                else
+                    size = 0;
             }
 
         }

@@ -8,7 +8,7 @@ namespace StackWithOneWayLinkedList
 {
     public class Node
     {
-        public Node Next { get; set; }
+        public Node Prev { get; set; }
         public int Data { get; set; }
     }
 }
