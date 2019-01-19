@@ -41,7 +41,7 @@ namespace StackWithOneWayLinkedList
             }
             else
             {
-                throw new Exception("Stack Downflow");
+                return int.MinValue;
             }
         }
     }

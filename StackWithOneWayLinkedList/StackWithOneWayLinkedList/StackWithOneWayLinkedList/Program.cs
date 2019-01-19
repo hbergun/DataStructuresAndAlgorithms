@@ -23,6 +23,11 @@ namespace StackWithOneWayLinkedList
             Console.WriteLine(stack.Pull());
             Console.WriteLine(stack.Pull());
             Console.WriteLine(stack.Peek());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
+            Console.WriteLine(stack.Pull());
 
             Console.ReadKey();
         }

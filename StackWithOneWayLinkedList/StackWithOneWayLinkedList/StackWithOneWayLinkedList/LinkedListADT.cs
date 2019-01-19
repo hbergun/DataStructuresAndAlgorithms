@@ -19,7 +19,7 @@ namespace StackWithOneWayLinkedList
             }
             set
             {
-                if (value >= 0)
+                if (value >= -1)
                     size = value;
                 else
                     size = 0;
